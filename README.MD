@@ -1,6 +1,6 @@
 ### Getting Started
 * Install Python and Pip
-* Install dependecies: pip install psutil && pip install tweepy && pip install websockets
+* Install dependecies: pip install tweepy && pip install kafka-python && pip install pyspark
 * Make sure you have Apache Spark installed. 
 * Get your API keys from [https://dev.twitter.com/](Twitter Developers) and put them in ``twitter_config.py``.
 * Set docker in your etc/hosts to point to your machine
